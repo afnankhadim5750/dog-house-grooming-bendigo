@@ -14,7 +14,7 @@
   --white:#fffdf8;
   --radius:18px;
   --shadow:0 24px 60px -24px rgba(43,43,40,.28);
-  --font-head:"DM Serif Display", Georgia, serif;
+  --font-head:"Poppins", -apple-system, "Segoe UI", sans-serif;
   --font-body:"Inter", -apple-system, "Segoe UI", sans-serif;
 }
 
@@ -33,7 +33,7 @@ a{color:inherit}
 .container{width:min(1180px,92%);margin:0 auto}
 
 h1,h2,h3,.serif{font-family:var(--font-head);font-weight:400;line-height:1.12;letter-spacing:.005em}
-h1{font-size:clamp(2.6rem,5.2vw,4.4rem)}
+h1{font-size:clamp(2.35rem,4.6vw,3.8rem);font-weight:600;letter-spacing:-.01em}
 h2{font-size:clamp(2rem,3.6vw,2.9rem)}
 h3{font-size:1.55rem}
 p{margin:0 0 1.1rem}

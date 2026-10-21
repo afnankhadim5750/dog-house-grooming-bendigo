@@ -1,6 +1,6 @@
 # The Dog House Grooming Salon
 
-Demo website concept for **The Dog House Grooming Salon** — Bendigo VIC, Australia.
+Demo website concept for **The Dog House Grooming Salon** — Bendigo VIC.
 
 Live preview: https://dog-house-grooming-bendigo-mockup.netlify.app
 
